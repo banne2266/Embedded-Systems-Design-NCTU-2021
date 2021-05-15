@@ -15,6 +15,6 @@ Lab5: PI camera
 Lab6: 人臉偵測和物件辨識介紹 by台灣樹莓派(非公開)  
 Lab7: facial camera  
 Lab8: Beacon Application  
-Lab9:   
+Lab9: 語音助理
 
 
